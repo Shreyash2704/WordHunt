@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/WordHunt/static/css/main.1038fd43.chunk.css",
+    "main.js": "/WordHunt/static/js/main.29e7cff0.chunk.js",
+    "main.js.map": "/WordHunt/static/js/main.29e7cff0.chunk.js.map",
+    "runtime-main.js": "/WordHunt/static/js/runtime-main.5691f0f9.js",
+    "runtime-main.js.map": "/WordHunt/static/js/runtime-main.5691f0f9.js.map",
+    "static/js/2.9e269ca2.chunk.js": "/WordHunt/static/js/2.9e269ca2.chunk.js",
+    "static/js/2.9e269ca2.chunk.js.map": "/WordHunt/static/js/2.9e269ca2.chunk.js.map",
+    "index.html": "/WordHunt/index.html",
+    "static/css/main.1038fd43.chunk.css.map": "/WordHunt/static/css/main.1038fd43.chunk.css.map",
+    "static/js/2.9e269ca2.chunk.js.LICENSE.txt": "/WordHunt/static/js/2.9e269ca2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5691f0f9.js",
+    "static/js/2.9e269ca2.chunk.js",
+    "static/css/main.1038fd43.chunk.css",
+    "static/js/main.29e7cff0.chunk.js"
+  ]
+}
